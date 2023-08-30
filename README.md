@@ -15,17 +15,16 @@
 <br>
 
 
-
-<div align=center>
+ <div width="900" align="center">
+ <img width=424 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsbfelipe&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=dsbfelipe&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsbfelipe&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
- <br>
+<br>
 
 
- <hr/>
+
+
  
 <h2 align="center">💻 Technologies 💻</h2>
 
@@ -38,20 +37,19 @@
 </div>
 
 <br/>
-<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dsbfelipe/dsbfelipe/output/github-contribution-grid-snake.svg" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dsbfelipe/dsbfelipe/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dsbfelipe/dsbfelipe/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dsbfelipe/dsbfelipe/output/github-contribution-grid-snake.svg" />
+</picture>
   
   <br/><br/><br/>
 </div>
-
-<hr/>
-
-<br/><br/>
-<hr/>
+<hr>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=35&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!+%F0%9F%91%8D;Get+in+touch+on+LinkedIn!">
