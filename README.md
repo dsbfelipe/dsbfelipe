@@ -1,6 +1,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=35&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!++%F0%9F%91%8B;Welcome+to+my+GitHub+Page!" />
 </h1>
+<div align="right">
+
+[![wakatime](https://wakatime.com/badge/user/8c427108-f3c9-4879-8b61-ed709c5e85bb.svg)](https://wakatime.com/@8c427108-f3c9-4879-8b61-ed709c5e85bb)
+
+</div>
 <h3 align="center">Fullstack web developer from Brazil 🇧🇷</h3>
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba, tenho buscado evoluir na área<br> de desenvolvimento fullstack web e mobile com foco principalmente em Ruby on Rails no backend e Typescript<br> com frameworks como React.js e Vue.js no frontend das aplicações web e React Native nas aplicações mobile. </p>
