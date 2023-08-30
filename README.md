@@ -41,7 +41,7 @@
     <img src="https://skillicons.dev/icons?i=linux,git,github,html,css,javascript,bootstrap,jquery,sass,react,tailwind" />
     <img src="https://skillicons.dev/icons?i=redux,d3,postgresql,nodejs,express,mongo,ruby,rails,rabbitmq,ts,elixir" /><br>
     <h3>Also had contact with:</h3>
-    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,java," />
+    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,java,mysql" />
 </div>
 
 <br/>
@@ -54,7 +54,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/dsbfelipe/dsbfelipe/output/github-contribution-grid-snake.svg" />
 </picture>
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 <hr>
 
