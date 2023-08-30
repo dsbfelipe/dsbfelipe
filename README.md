@@ -5,6 +5,7 @@
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba, tenho buscado evoluir na área<br> de desenvolvimento fullstack web e mobile com foco principalmente em Ruby on Rails no backend e Typescript<br> com frameworks como React.js e Vue.js no frontend das aplicações. </p>
 <p align="center">Information Technology student in the Technology College from Sorocaba, a city in the state of São Paulo, Brazil.<br> I've been searching for getting better on fullstack web and mobile development, using mainly Ruby on Rails<br> on the backend and Typescript with React.js and Vue.js on the application's frontend.  </p>
+<br>
 
 <div align="center"> 
 <a href="mailto:dsbfelipe@outlook.com">
