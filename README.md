@@ -55,7 +55,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/dsbfelipe/dsbfelipe/output/github-contribution-grid-snake.svg" />
 </picture>
   
-  <br/><br/>
+  <br/>
 </div>
 <hr>
 
