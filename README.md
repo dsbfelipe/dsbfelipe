@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=35&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!++%F0%9F%91%8B;Welcome+to+my+GitHub+Page!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press Start 2P&size=20&duration=2000&pause=1000&color=9343EE&center=true&vCenter=true&width=550&lines=Hi+there!;Welcome+to+my+GitHub+Page!" />
 </h1>
 <div align="right">
 
@@ -65,7 +65,7 @@
 <hr>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=35&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!+%F0%9F%91%8D;Get+in+touch+on+LinkedIn!">
+    <img src="https://readme-typing-svg.demolab.com?font=Press Start 2P&size=20&duration=2000&pause=1000&color=9343EE&center=true&vCenter=true&width=550&lines=Thank+you+for+visiting!;Get+in+touch+on+LinkedIn!">
 </h3>
 
 
