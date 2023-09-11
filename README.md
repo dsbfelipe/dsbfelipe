@@ -3,9 +3,11 @@
 </h1>
 <div align="right">
 
+[![Code Wars](https://www.codewars.com/users/dsbfelipe/badges/micro)](https://www.codewars.com/users/dsbfelipe)
 [![wakatime](https://wakatime.com/badge/user/8c427108-f3c9-4879-8b61-ed709c5e85bb.svg)](https://wakatime.com/@8c427108-f3c9-4879-8b61-ed709c5e85bb)
 
 </div>
+
 <h3 align="center">Fullstack web and mobile developer from Brazil 🇧🇷</h3>
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba, tenho buscado evoluir na área<br> de desenvolvimento fullstack web e mobile com foco principalmente em Ruby on Rails no backend e Typescript<br> com frameworks como React.js e Vue.js no frontend das aplicações web e React Native nas aplicações mobile. </p>
@@ -29,10 +31,14 @@
 <br>
 
 
+
+
  <div width="900" align="center">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=dsbfelipe&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsbfelipe&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<br>
+
 
 <br>
 
