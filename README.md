@@ -49,11 +49,12 @@
 <h2 align="center">💻 Technologies 💻</h2>
 
 <div align="center">
-    <h3>Using and/or learning at the moment:</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,bootstrap,firebase,jquery,sass,react,tailwind" />
-    <img src="https://skillicons.dev/icons?i=redux,d3,postgresql,nodejs,express,mongo,ruby,rails,rabbitmq,ts,elixir" /><br>
+    <h3>Main stack:</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <h3>Tools:</h3>
+    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,figma" />
     <h3>Also had contact with:</h3>
-    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,cs,java,dotnet" />
 </div>
 
 <br/>
