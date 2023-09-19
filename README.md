@@ -35,8 +35,8 @@
 
 
  <div width="900" align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=dsbfelipe&bg_color=30,E3E3E3,B4B5B8,CBCCCD,fff,A8A9AD,E3E3E3&icon_color=111&title_color=333&text_color=222&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsbfelipe&langs_count=8&layout=compact&bg_color=30,E3E3E3,B4B5B8,CBCCCD,fff,A8A9AD,E3E3E3&icon_color=111&title_color=333&text_color=222&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=dsbfelipe&theme=midnight-purple&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsbfelipe&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br>
 
@@ -61,7 +61,7 @@
 <br/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Contributions 🐍</h2>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dsbfelipe/dsbfelipe/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dsbfelipe/dsbfelipe/output/github-contribution-grid-snake.svg" />
