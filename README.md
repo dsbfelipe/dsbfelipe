@@ -35,8 +35,8 @@
 
 
  <div width="900" align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=dsbfelipe&theme=midnight-purple&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsbfelipe&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=dsbfelipe&bg_color=30,040001,000,020002,0a000a,050005,000&icon_color=555&title_color=7700aa&text_color=bbb&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsbfelipe&langs_count=8&layout=compact&bg_color=30,040001,000,020002,0a000a,050005,000&title_color=7700aa&text_color=bbb&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br>
 
