@@ -36,7 +36,7 @@
 
  <div width="900" align="center">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=dsbfelipe&theme=github_dark&title_color=9343EE&icon_color=9343EE&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsbfelipe&langs_count=8&layout=compact&theme=github_dark&title_color=9343EE&icon_color=9343EE&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsbfelipe&langs_count=8&layout=compact&theme=github_dark&title_color=9343EE&icon_color=9343EE&border_radius=10&size_weight=0.5&count_weight=0.5&count_private=true&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br>
 <br>
