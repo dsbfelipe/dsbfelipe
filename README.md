@@ -53,7 +53,7 @@
     <h3>Tools:</h3>
     <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,figma" />
     <h3>Also had contact with:</h3>
-    <img src="https://skillicons.dev/icons?i=c,cs,java,dotnet" />
+    <img src="https://skillicons.dev/icons?i=c,cs,java,dotnet&theme=light" />
 </div>
 
 <br/>
