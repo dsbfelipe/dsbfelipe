@@ -11,7 +11,7 @@
 
 <h3 align="center">Fullstack web and mobile developer from Brazil 🇧🇷</h3>
 
-<p align="center">Information Technology student in the Technology College from Sorocaba, a city in the state of São Paulo, Brazil.<br> I've been searching for getting better at fullstack web and mobile development, using mainly Ruby on Rails on <br>the backend and Typescript with React.js on the frontend of web applications and React Native on mobile apps.  </p>
+<p align="center">Information Technology student in the Technology College from Sorocaba, a city in the state of São Paulo, Brazil.<br> I've been searching for getting better at fullstack web and mobile development, using mainly Ruby on Rails on the <br> backend and Typescript with React.js on the frontend of web applications and React Native on mobile apps. <br> Currently i've been trying to improve on plain CSS  and vanilla Javascript to get a  better understanding<br> on front-end frameworks and libraries and why they're useful. </p>
 <br>
 
 <div align="center"> 
@@ -39,6 +39,7 @@
 </div>
 <br>
 <br>
+
 
 
 
