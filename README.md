@@ -37,11 +37,6 @@
   <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsbfelipe&langs_count=8&layout=compact&theme=github_dark&title_color=9343EE&icon_color=9343EE&border_radius=10&size_weight=0.5&count_weight=0.5&count_private=true&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br>
-<br>
-
-
-
-
 
  
 <h2 align="center">💻 Technologies 💻</h2>
