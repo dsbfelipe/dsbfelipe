@@ -1,6 +1,19 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Press Start 2P&size=20&duration=2000&pause=1000&color=9343EE&center=true&vCenter=true&width=550&lines=Hi+there!;Welcome+to+my+GitHub+Page!" />
+
+<picture>
+
+<h1 align="center" media="(prefers-color-scheme: dark)"> 
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=32&letterSpacing=2px&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=640&lines=Welcome+to+my+GitHub+page!)](https://git.io/typing-svg)
+
 </h1>
+
+<h1 align="center" media="(prefers-color-scheme: light)"> 
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=32&letterSpacing=2px&duration=4000&pause=1000&color=0B0B0B&center=true&vCenter=true&random=true&width=640&lines=Welcome+to+my+GitHub+page!)](https://git.io/typing-svg)
+
+</h1>
+
+</picture>
 
 
 
