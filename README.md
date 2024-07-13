@@ -4,11 +4,11 @@
 
 
 
-
+<div align="right">
 
 [![wakatime](https://wakatime.com/badge/user/8c427108-f3c9-4879-8b61-ed709c5e85bb.svg)](https://wakatime.com/@8c427108-f3c9-4879-8b61-ed709c5e85bb)
 
-
+</div>
 
 
 <br>
@@ -20,15 +20,15 @@
 <br>
 
 
-<div>
+<div align="center">
 
 <h3 align="center">Social media:</h3>
 
 <a href="mailto:dsbfelipe@outlook.com">
-    <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/dsbfelipe" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
 
 </div>
