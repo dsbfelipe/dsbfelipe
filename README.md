@@ -3,29 +3,21 @@
 </h1>
 
 
+<a href="mailto:dsbfelipe@outlook.com">
+    <img align="right" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/dsbfelipe" target="_blank">
+    <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
 
-<div style="display:flex; align-items:flex-start; justify-content:space-between">
-
-<div align="left">
 
 [![wakatime](https://wakatime.com/badge/user/8c427108-f3c9-4879-8b61-ed709c5e85bb.svg)](https://wakatime.com/@8c427108-f3c9-4879-8b61-ed709c5e85bb)
 
-</div>
-
-<div align="right">
-
-<a href="mailto:dsbfelipe@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/dsbfelipe" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-
-  </div>
 
 
 
-</div>
+<br>
+
 
 <h3 align="center">Fullstack web and mobile developer from Brazil 🇧🇷</h3>
 
