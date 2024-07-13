@@ -23,15 +23,24 @@
 <br>
 
 
-<div align="center">
+<div style="border: 1px solid grey; padding-bottom: 24px" align="center">
 
-<h3 align="center">Social media:</h3>
+<h3 align="center" style="margin-bottom:24px; font-size: 22px;">Where to find me:</h3>
 
 <a href="mailto:dsbfelipe@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/dsbfelipe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
+<a href="https://linkedin.com/in/dsbfelipe" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank" />
+</a>
+<a href="https://linkedin.com/in/dsbfelipe" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank" />
+</a>
+<a href="mailto:dsbfelipe@outlook.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
 
 </div>
