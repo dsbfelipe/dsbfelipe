@@ -4,7 +4,13 @@
 
 
 
+<div style="display:flex; align-items:flex-start; justify-content:space-between">
 
+<div align="left">
+
+[![wakatime](https://wakatime.com/badge/user/8c427108-f3c9-4879-8b61-ed709c5e85bb.svg)](https://wakatime.com/@8c427108-f3c9-4879-8b61-ed709c5e85bb)
+
+</div>
 
 <div align="right">
 
@@ -15,8 +21,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
+  </div>
 
-[![wakatime](https://wakatime.com/badge/user/8c427108-f3c9-4879-8b61-ed709c5e85bb.svg)](https://wakatime.com/@8c427108-f3c9-4879-8b61-ed709c5e85bb)
+
 
 </div>
 
