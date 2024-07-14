@@ -37,6 +37,8 @@
  
 <h2 align="center">💻 Technologies 💻</h2>
 
+
+
 <div align="center">
     <h3>Main stack:</h3>
     <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -44,7 +46,7 @@
     <img src="https://skillicons.dev/icons?i=linux,git,vscode&theme=dark" />  <img src="assets/Aseprite.svg" width="48px"> <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 </div>
 
-<br>vscode,git,figma
+
 
 <h2></h2>
 
@@ -62,7 +64,7 @@
 </a>
 
 </div>
-<br>
+
 
 <h2></h2>
 
