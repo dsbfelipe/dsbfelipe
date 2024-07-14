@@ -14,11 +14,6 @@
 
 </div>
 
-
-<br>
-
-
-
 <img src="assets/banner.png" width="100%">
 
 <br>
@@ -45,8 +40,8 @@
 <div align="center">
     <h3>Main stack:</h3>
     <img src="https://skillicons.dev/icons?i=html,css,js" />
-    <h3>Also had contact with:</h3>
-    <img src="https://skillicons.dev/icons?i=c,cs,java,dotnet&theme=light" />
+    <h3>Tools:</h3>
+    <img src="https://skillicons.dev/icons?i=linux,vscode,git,figma&theme=dark" /> 
 </div>
 
 <br>
