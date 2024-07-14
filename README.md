@@ -1,10 +1,6 @@
-<div align="center" media="(prefers-color-scheme: dark)"> 
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Reenie+Beanie&size=48&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=640&lines=Welcome+to+my+GitHub+page!)](https://git.io/typing-svg)
 
-</div>
 
-<img width="100%" src="assets/thorn.png">
+<img width="100%" src="assets/upper-thorn.png">
 
 <br>
 
@@ -57,11 +53,7 @@
 </div>
 
 <br>
+<br>
 
 <img width="100%" src="assets/thorn.png">
 
-<div align="center">
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Reenie+Beanie&size=32&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Thank+you+for+visiting!)](https://git.io/typing-svg)
-    
-</div>
