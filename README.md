@@ -27,9 +27,9 @@
  
 <h2 align="center">💻 Technologies 💻</h2>
 <div align="center">
-    <h3>Main stack:</h3>
+    <h3>Favorite languages, frameworks and libraries</h3>
     <img src="https://skillicons.dev/icons?i=html,css,js" />
-    <h3>Tools:</h3>
+    <h3>Favorite tools:</h3>
     <img src="https://skillicons.dev/icons?i=linux,git,vscode&theme=dark" />  <img src="assets/Aseprite.svg" width="48px"> <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 </div>
 
