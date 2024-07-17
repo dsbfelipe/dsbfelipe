@@ -4,7 +4,7 @@
 
 <br>
 
-<div align="right">
+<div align="right" style="margin-right: 2rem">
 
 [![wakatime](https://wakatime.com/badge/user/8c427108-f3c9-4879-8b61-ed709c5e85bb.svg)](https://wakatime.com/@8c427108-f3c9-4879-8b61-ed709c5e85bb)
 
