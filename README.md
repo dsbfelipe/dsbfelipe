@@ -30,7 +30,7 @@
     <h3>Favorite languages, frameworks and libraries</h3>
     <img src="https://skillicons.dev/icons?i=html,css,js" />
     <h3>Favorite tools:</h3>
-    <img src="https://skillicons.dev/icons?i=linux,git,vscode&theme=dark" />  <img src="assets/Aseprite.svg" width="48px"> <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,git,vscode,figma&theme=dark" />
 </div>
 
 <h2></h2>
