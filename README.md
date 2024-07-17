@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="assets/banner.png" width="100%">
+<img src="assets/main-banner.png" width="100%">
 
 <br>
 
@@ -53,7 +53,3 @@
 </div>
 
 <br>
-<br>
-
-<img width="100%" src="assets/thorn.png">
-
