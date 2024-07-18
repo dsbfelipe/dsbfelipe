@@ -12,6 +12,12 @@
 
 <img src="assets/main-banner.png" width="100%">
 
+ <div width="1000" align="center">
+  <img width=50% src="https://github-readme-stats.vercel.app/api?username=dsbfelipe&theme=github_dark&count_private=true&show_icons=true&rank_icon=github&border_radius=10&hide_border=true" alt="readme stats" />
+   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsbfelipe&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=github_dark&hide_border=true"
+  alt="languages graph" />
+    
+</div>
 <br>
 
 <div align="center">
