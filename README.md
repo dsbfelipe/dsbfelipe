@@ -15,11 +15,12 @@
 <br>
 
  <div width="1000" align="center">
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=dsbfelipe&theme=dark&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
-   <img width="355" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsbfelipe&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=false"
+   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsbfelipe&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=false"
   alt="languages graph" />
-    
+  <img width="365" src="https://github-readme-stats.vercel.app/api/wakatime?username=dsbfelipe&theme=dark&langs_count=6&hide_title=true&hide=markdown"
+  alt="languages graph" />  
 </div>
+
 
 <div align="center">
   <h2>🐍 Contributions 🐍</h2>
