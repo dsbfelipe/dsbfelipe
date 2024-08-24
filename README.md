@@ -14,7 +14,7 @@
     
 <br>
 
- <div width="1000" align="center">
+ <div width="100%" align="center">
    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsbfelipe&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=false"
   alt="languages graph" />
   <img width="365" src="https://github-readme-stats.vercel.app/api/wakatime?username=dsbfelipe&theme=dark&langs_count=6&hide_title=true&hide=markdown"
