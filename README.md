@@ -13,16 +13,15 @@
 <img src="assets/main-banner.png" width="100%">
     
 <br>
+<!--
 <br>
-
  <div width="100%" align="center">
-   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsbfelipe&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=github_dark&hide_border=true"
+   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsbfelipe&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=holi&hide_border=false"
   alt="languages graph" />
-  <img width="425.3" src="https://github-readme-stats.vercel.app/api/wakatime?username=dsbfelipe&theme=github_dark&langs_count=6&hide_title=true&hide=markdown&hide_border=true"
+  <img width="425.3" src="https://github-readme-stats.vercel.app/api/wakatime?username=dsbfelipe&theme=holi&langs_count=6&hide_title=true&hide=markdown"
   alt="languages graph" />  
 </div>
-
-<br>
+-->
 
 <div align="center">
   <h2>🐍 Contributions 🐍</h2>
