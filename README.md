@@ -1,5 +1,3 @@
-
-
 <img width="100%" src="assets/upper-thorn.png">
 
 <br>
@@ -7,8 +5,6 @@
 <div align="right" style="margin-right: 2rem">
 
 [![wakatime](https://wakatime.com/badge/user/8c427108-f3c9-4879-8b61-ed709c5e85bb.svg)](https://wakatime.com/@8c427108-f3c9-4879-8b61-ed709c5e85bb)
-
-</div>
 
 <img src="assets/main-banner.png" width="100%">
     
@@ -37,7 +33,7 @@
 <h2 align="center">💻 Technologies 💻</h2>
 <div align="center">
     <h3>Favorite languages, frameworks and libraries</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,ruby,js" />
     <h3>Favorite tools:</h3>
     <img src="https://skillicons.dev/icons?i=linux,git,vscode,figma&theme=dark" />
 </div>
