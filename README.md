@@ -32,10 +32,12 @@
  
 <h2 align="center">💻 Technologies 💻</h2>
 <div align="center">
-    <h3>Favorite languages, frameworks and libraries</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,ruby,js" />
+    <h3>Favorite languages, frameworks and libraries:</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,ruby,js,react" />
     <h3>Favorite tools:</h3>
     <img src="https://skillicons.dev/icons?i=linux,git,vscode,figma&theme=dark" />
+    <h3>Other technologies i'm familiar with:</h3>
+    <img src="https://skillicons.dev/icons?i=jquery,webpack,bootstrap,redux,sass&theme=dark" />
 </div>
 
 <h2></h2>
