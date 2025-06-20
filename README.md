@@ -18,7 +18,7 @@
   alt="languages graph" />  
 </div>
 -->
-
+<!--
 <div align="center">
   <h2>🐍 Contributions 🐍</h2>
   <picture>
@@ -27,15 +27,18 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/dsbfelipe/dsbfelipe/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
+-->
 
 <br>
  
 <h2 align="center">💻 Technologies 💻</h2>
 <div align="center">
     <h3>Favorite languages, frameworks and libraries:</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,ruby,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=next,vite,ruby,postgres" />
     <h3>Favorite tools:</h3>
-    <img src="https://skillicons.dev/icons?i=linux,git,vscode,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,git,vscode,figma,aws&theme=dark" />
     <h3>Other technologies i'm familiar with:</h3>
     <img src="https://skillicons.dev/icons?i=jquery,webpack,bootstrap,redux,sass&theme=dark" />
 </div>
