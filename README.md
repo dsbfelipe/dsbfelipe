@@ -36,7 +36,7 @@
     <h3>Favorite languages, frameworks and libraries:</h3>
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react" />
     <br>
-    <img src="https://skillicons.dev/icons?i=next,vite,ruby,postgres" />
+    <img src="https://skillicons.dev/icons?i=next,vite,java,spring,ruby,postgres" />
     <h3>Favorite tools:</h3>
     <img src="https://skillicons.dev/icons?i=linux,git,vscode,figma,aws&theme=dark" />
     <h3>Other technologies i'm familiar with:</h3>
