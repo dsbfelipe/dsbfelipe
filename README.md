@@ -9,38 +9,16 @@
 <img src="assets/main-banner.png" width="100%">
     
 <br>
-
-<br>
- <div width="100%" align="center">
-   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsbfelipe&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=4&theme=holi&hide_border=false"
-  alt="languages graph" />
-  <img width="425.3" src="https://github-readme-stats.vercel.app/api/wakatime?username=dsbfelipe&theme=holi&langs_count=6&hide_title=true&hide=markdown"
-  alt="languages graph" />  
-</div>
-
-<!--
-<div align="center">
-  <h2>🐍 Contributions 🐍</h2>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dsbfelipe/dsbfelipe/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dsbfelipe/dsbfelipe/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/dsbfelipe/dsbfelipe/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
--->
-
-<br>
  
 <h2 align="center">💻 Technologies 💻</h2>
 <div align="center">
     <h3>Favorite languages, frameworks and libraries:</h3>
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react" />
     <br>
-    <img src="https://skillicons.dev/icons?i=next,vite,java,spring,ruby,postgres" />
+    <img src="https://skillicons.dev/icons?i=next,mongodb,nodejs,redis,postgres,rabbitmq" />
     <h3>Favorite tools:</h3>
     <img src="https://skillicons.dev/icons?i=linux,git,vscode,figma,aws&theme=dark" />
-    <h3>Other technologies i'm familiar with:</h3>
-    <img src="https://skillicons.dev/icons?i=jquery,webpack,bootstrap,redux,sass&theme=dark" />
+
 </div>
 
 <h2></h2>
